@@ -1,5 +1,7 @@
 ## Open-source lexical search
 
+<img src="assets/open-source-lexical-search.png" width="800" alt="Open-source lexical search">
+
 ### Libraries
 | Library              | License | Language |
 | :---------------- | :------ | :---- |
