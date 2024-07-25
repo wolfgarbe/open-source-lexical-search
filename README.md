@@ -8,7 +8,6 @@
 | [Bluge](https://github.com/blugelabs/bluge) | Apache-2.0 | Go |
 | [BM25S](https://github.com/xhluca/bm25s) | MIT | Python |
 | [Lucene](https://github.com/apache/lucene) | Apache-2.0 | Java |
-| [Manticore](https://github.com/manticoresoftware/manticoresearch/) | GPL-3.0 | C++ |
 | [Noise](https://github.com/pipedown/noise) | Apache-2.0 | Rust |
 | [PISA](https://github.com/pisa-engine/pisa) | Apache-2.0 | C++ |
 | [Riot](https://github.com/go-ego/riot)| Apache-2.0 | Go |
@@ -24,6 +23,7 @@
 | :---------------- | :------ | :---- | :---- |
 | [Bayard](https://github.com/mosuka/bayard) | MIT | Rust | Tantivy|
 | [LNX](https://github.com/lnx-search/lnx) | MIT | Rust | Tantivy |
+| [Manticore](https://github.com/manticoresoftware/manticoresearch/) | GPL-3.0 | C++ | |
 | [Meilisearch](https://github.com/meilisearch/meilisearch) | MIT | Rust | |
 | [OpenSearch](https://github.com/opensearch-project/OpenSearch) | Apache-2.0 | Java | Lucene |
 | [Phalanx](https://github.com/mosuka/phalanx) | Apache-2.0 | Go | Bluge |
